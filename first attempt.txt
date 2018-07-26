@@ -1,3 +1,0 @@
-shiv
-mannan
-shard
